@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--I'm currently taking a course in python and data at developers.institute
+
 **yonizs/yonizs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
